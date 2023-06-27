@@ -1,5 +1,5 @@
 # learning
-Projetos simples para aprender
+Projetos simples para aprender programação
 
-## Sources:
-[Curso de React Para Iniciantes - Programação Web](https://www.youtube.com/watch?v=hd2B7XQAFls&list=PL2Fdisxwzt_c4dlgeANTt8npMM9T5-ATk)
+## Meus Projetos:
+- [Lista de Tarefas](https://github.com/RegianaBarbosa/learning/tree/main/react/react-lista-de-tarefas) (React, Node.js e Vite)
