@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.note_section{
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+  width: 75vw;
+}
+
+.note_empty {
+  font-size: 3em;
+  text-align: center;
+  color: #333;
+  margin: 20px 0;
+}
